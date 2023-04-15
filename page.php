@@ -98,8 +98,8 @@ class Page
             ?>
 <div class="menuitem">
     <a href="
-                <?= $url  ?>
-                ">
+        <?= $url  ?>
+        ">
         <?= $name ?>
     </a>
 </div>
